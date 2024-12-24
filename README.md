@@ -20,4 +20,5 @@
 
 <a href="https://discordapp.com/users/748227849516875788"><img src="https://img.shields.io/badge/.1tommy-black?style=for-the-badge&logo=discord" alt=".1tommy"></a>
 
+<img src="https://komarev.com/ghpvc/?username=1tommyy&color=lightgray" alt="fax" width="" height="">
 </details>
