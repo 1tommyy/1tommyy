@@ -11,7 +11,7 @@
 
 <h2 align="center">CURRENT PROJECTS</h2>
 
-- [Out The Trenches Roleplay](https://discord.gg/ottrp) *Serious Roleplay FiveM Server (Owner)*
+- [Elevate Network](https://discord.gg/entrp) *Serious Roleplay FiveM Server (Owner)*
 - [XCEL Studios](https://discord.gg/xcel5m) *FiveM Semi-RP/Fragging Server (Developer)*
 
 
